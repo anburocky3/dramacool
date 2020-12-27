@@ -1,4 +1,4 @@
-### DramaCool Scrapper
+# DramaCool Scrapper
 
 This script has the following benefits
 
@@ -10,6 +10,15 @@ This script has the following benefits
 6.  **Tip:** Use any Download Manager like IDM(Internet Download Manager, for Windows) or Xtreme Download Manager for Linux environments.
 7.  Happy downloading and support the site as much as you can. :)
 
+### Future fullfillments
+
+1. Based the feedback received by the community, we may try and include the captacha bypass and through which we can download almost all drama/movies without any manual work. - [Future]
+2. Create dedicated GUI app. - [Future]
+
 ### Changelogs:
 
-1.
+1. Initial build
+
+### Author:
+
+Anbuselvan Rocky - [Facebook](https://facebook.com/anburocky3)
